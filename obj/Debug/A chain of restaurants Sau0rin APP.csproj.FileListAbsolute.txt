@@ -1,0 +1,12 @@
+D:\мусор\A chain of restaurants Sau0rin APP\bin\Debug\A chain of restaurants Sau0rin APP.exe.config
+D:\мусор\A chain of restaurants Sau0rin APP\bin\Debug\A chain of restaurants Sau0rin APP.exe
+D:\мусор\A chain of restaurants Sau0rin APP\bin\Debug\A chain of restaurants Sau0rin APP.pdb
+D:\мусор\A chain of restaurants Sau0rin APP\obj\Debug\A chain of restaurants Sau0rin APP.csprojAssemblyReference.cache
+D:\мусор\A chain of restaurants Sau0rin APP\obj\Debug\A_chain_of_restaurants_Sau0rin_APP.Properties.Resources.resources
+D:\мусор\A chain of restaurants Sau0rin APP\obj\Debug\A chain of restaurants Sau0rin APP.csproj.GenerateResource.cache
+D:\мусор\A chain of restaurants Sau0rin APP\obj\Debug\A chain of restaurants Sau0rin APP.exe
+D:\мусор\A chain of restaurants Sau0rin APP\obj\Debug\A chain of restaurants Sau0rin APP.pdb
+D:\мусор\A chain of restaurants Sau0rin APP\obj\Debug\A_chain_of_restaurants_Sau0rin_APP.main.resources
+D:\мусор\A chain of restaurants Sau0rin APP\obj\Debug\A_chain_of_restaurants_Sau0rin_APP.japan.resources
+D:\мусор\A chain of restaurants Sau0rin APP\obj\Debug\A_chain_of_restaurants_Sau0rin_APP.italy.resources
+D:\мусор\A chain of restaurants Sau0rin APP\obj\Debug\A_chain_of_restaurants_Sau0rin_APP.fast_food.resources
